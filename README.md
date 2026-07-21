@@ -38,7 +38,7 @@ currently into :
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://www.google.com/s2/favicons?domain=cogzin.com&sz=64" width="28" valign="middle" style="margin-right:8px" /> &nbsp;Cogzin Technologies
+### <img src="https://www.google.com/s2/favicons?domain=cogzin.com&sz=64" width="24" valign="middle" style="margin-right:8px" /> &nbsp;Cogzin Technologies
 <sub>Nov 2025 – July 2026</sub>
 
 **SDE Intern**
@@ -138,15 +138,17 @@ currently into :
 
 </div>
 
-** [YouTube Mate](https://github.com/forcedtomakeanaccounthere/Youtube-Mate)** — AI-powered productivity platform
+**[YouTube Mate](https://github.com/forcedtomakeanaccounthere/Youtube-Mate)** — AI-powered productivity platform
 AI summaries • AI transcription • Timestamp sharing • Group streaming • Shared playlists • URL shortener • Playlist download • OAuth • Stripe billing
 `Next.js` `Express` `MongoDB` `TypeScript` `Tailwind` `WebSockets`
 
-** [Milestone](https://github.com/forcedtomakeanaccounthere/milestone-freelancing-website)** — Freelancing ecosystem
+**[Milestone](https://github.com/forcedtomakeanaccounthere/milestone-freelancing-website)** — Freelancing ecosystem
 Real-time chat • GraphQL backend • Milestone payments • Notifications • Role-based auth
 
-** [SQL Injection Prevention](https://github.com/forcedtomakeanaccounthere/Cloud-Computing-project)** — Cloud-native security platform, safeguarding against 95% of advanced SQL injection attack via custom algorithms which might bypass WAF security rules.
+**[SQL Injection Prevention](https://github.com/forcedtomakeanaccounthere/Cloud-Computing-project)** — Cloud-native security platform, safeguarding against 95% of advanced SQL injection attack via custom algorithms which might bypass WAF security rules.
 `AWS Lambda` `AWS WAF` `AWS SNS` `AWS RDS` `React` `Twofish Encryption` `Custom SQL Parser`
+
+
 
 <br/>
 
