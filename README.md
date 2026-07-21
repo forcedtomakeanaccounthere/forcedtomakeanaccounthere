@@ -39,7 +39,7 @@ currently into :
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://www.google.com/s2/favicons?domain=cogzin.com&sz=64" width="21" valign="middle" style="margin-right:8px" /> &nbsp;Cogzin Technologies
+### <img src="https://www.google.com/s2/favicons?domain=cogzin.com&sz=64" width="19" valign="middle" style="margin-right:8px" /> &nbsp;Cogzin Technologies
 <sub>Nov 2025 – July 2026</sub>
 
 **SDE Intern**
@@ -133,8 +133,8 @@ currently into :
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=forcedtomakeanaccounthere&repo=milestone-freelancing-website&theme=tokyonight&hide_border=true" />
 </a>
 <br/>
-<a href="https://github.com/forcedtomakeanaccounthere/Cloud-Computing-project">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=forcedtomakeanaccounthere&repo=Cloud-Computing-project&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/forcedtomakeanaccounthere/SQL-injection-prevention-in-CLoud-Environment">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=forcedtomakeanaccounthere&repo=SQL-injection-prevention-in-CLoud-Environment&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -146,7 +146,7 @@ AI summaries • AI transcription • Timestamp sharing • Group streaming • 
 **[Milestone](https://github.com/forcedtomakeanaccounthere/milestone-freelancing-website)** — Freelancing ecosystem
 Real-time chat • GraphQL backend • Milestone payments • Notifications • Role-based auth
 
-**[SQL Injection Prevention](https://github.com/forcedtomakeanaccounthere/Cloud-Computing-project)** — Cloud-native security platform, safeguarding against 95% of advanced SQL injection attack via custom algorithms which might bypass WAF security rules.
+**[SQL Injection Prevention](https://github.com/forcedtomakeanaccounthere/SQL-injection-prevention-in-CLoud-Environment)** — Cloud-native security platform, safeguarding against 95% of advanced SQL injection attack via custom algorithms which might bypass WAF security rules.
 `AWS Lambda` `AWS WAF` `AWS SNS` `AWS RDS` `React` `Twofish Encryption` `Custom SQL Parser`
 
 
