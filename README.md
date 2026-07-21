@@ -122,19 +122,19 @@ currently into :
 </table>
 <br/>
 
-## ⭐ Featured Projects
+## Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/forcedtomakeanaccounthere/Youtube-Mate">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=forcedtomakeanaccounthere&repo=Youtube-Mate&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/forcedtomakeanaccounthere/milestone-freelancing-website">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=forcedtomakeanaccounthere&repo=milestone-freelancing-website&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/forcedtomakeanaccounthere/Milestone">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=forcedtomakeanaccounthere&repo=Milestone&theme=tokyonight&hide_border=true" />
 </a>
 <br/>
-<a href="https://github.com/forcedtomakeanaccounthere/SQL-injection-prevention-in-CLoud-Environment">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=forcedtomakeanaccounthere&repo=SQL-injection-prevention-in-CLoud-Environment&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/forcedtomakeanaccounthere/SQLi-prevention-in-Cloud-Environment">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=forcedtomakeanaccounthere&repo=SQLi-prevention-in-Cloud-Environment&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -143,17 +143,17 @@ currently into :
 AI summaries • AI transcription • Timestamp sharing • Group streaming • Shared playlists • URL shortener • Playlist download • OAuth • Stripe billing
 `Next.js` `Express` `MongoDB` `TypeScript` `Tailwind` `WebSockets`
 
-**[Milestone](https://github.com/forcedtomakeanaccounthere/milestone-freelancing-website)** — Freelancing ecosystem
+**[Milestone](https://github.com/forcedtomakeanaccounthere/Milestone)** — Freelancing ecosystem
 Real-time chat • GraphQL backend • Milestone payments • Notifications • Role-based auth
 
-**[SQL Injection Prevention](https://github.com/forcedtomakeanaccounthere/SQL-injection-prevention-in-CLoud-Environment)** — Cloud-native security platform, safeguarding against 95% of advanced SQL injection attack via custom algorithms which might bypass WAF security rules.
+**[SQL Injection Prevention](https://github.com/forcedtomakeanaccounthere/SQLi-prevention-in-Cloud-Environment)** — Cloud-native security platform, safeguarding against 95% of advanced SQL injection attack via custom algorithms which might bypass WAF security rules.
 `AWS Lambda` `AWS WAF` `AWS SNS` `AWS RDS` `React` `Twofish Encryption` `Custom SQL Parser`
 
 
 
 <br/>
 
-## 🏆 Achievements
+## Achievements
 
 -  **Domain Lead — AI/ML & Data Science**, GDG (Google Developer's Group) IIIT Sri City
 -  **Stanford Machine Learning Specialization**, DeepLearning.AI
@@ -162,7 +162,7 @@ Real-time chat • GraphQL backend • Milestone payments • Notifications • 
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
