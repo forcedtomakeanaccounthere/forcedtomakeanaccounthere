@@ -16,7 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🚀 About Me
+## About Me
 
 ```yaml
 education: "B.Tech CSE @ IIIT Sri City (2023 – 2027)"
@@ -32,13 +32,15 @@ currently into :
 
 <br/>
 
-## 💼 Experience
+## Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://www.google.com/s2/favicons?domain=cogzin.com&sz=32" width="20" valign="middle" /> Cogzin Technologies
+### <img src="https://www.google.com/s2/favicons?domain=cogzin.com&sz=64" width="28" valign="middle" style="margin-right:8px" /> &nbsp;Cogzin Technologies
+<sub>Nov 2025 – July 2026</sub>
+
 **SDE Intern**
 
 - Led backend development for **MuktiFresh**
@@ -51,7 +53,9 @@ currently into :
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://www.google.com/s2/favicons?domain=wecofy.com&sz=32" width="20" valign="middle" /> Wecofy Technotides
+### <img src="https://www.google.com/s2/favicons?domain=wecofy.com&sz=64" width="28" valign="middle" style="margin-right:8px" /> &nbsp;Wecofy Technotides
+<sub>Nov 2025 – Feb 2026</sub>
+
 **Full Stack Developer Intern**
 
 - Built Admin & Seller Dashboards
@@ -66,18 +70,8 @@ currently into :
 
 <br/>
 
-## 🕒 Timeline
-
-```
-2025 ───────── SDE Intern @ Cogzin Technologies
-2025 ───────── Full Stack Intern @ Wecofy Technotides
-2025 ───────── Domain Lead, GDG IIIT Sri City
-2026 ───────── Building AI-powered developer products
-```
-
-<br/>
-
 ## 🛠 Tech Stack
+
 
 <table align="center">
 <tr>
@@ -90,7 +84,8 @@ currently into :
 </td>
 <td align="center" width="46%">
 <sub><b>BACKEND</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,socketio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" />
+<img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="48" height="48" style="margin-left:6px" />
 </td>
 </tr>
 <tr><td colspan="3"><br/></td></tr>
@@ -104,7 +99,7 @@ currently into :
 </td>
 <td align="center" width="46%">
 <sub><b>DATABASES</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql&theme=dark" />
 </td>
 </tr>
 <tr><td colspan="3"><br/></td></tr>
@@ -119,10 +114,11 @@ currently into :
 <td align="center" width="46%">
 <sub><b>AI</b></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+<img src="https://cdn.simpleicons.org/pandas/ffffff" width="48" height="48" style="margin-left:6px" />
+<img src="https://cdn.simpleicons.org/langchain/ffffff" width="48" height="48" style="margin-left:6px" />
 </td>
 </tr>
 </table>
-
 <br/>
 
 ## ⭐ Featured Projects
@@ -142,23 +138,25 @@ currently into :
 
 </div>
 
-**🎥 [YouTube Mate](https://github.com/forcedtomakeanaccounthere/Youtube-Mate)** — AI-powered productivity platform
+** [YouTube Mate](https://github.com/forcedtomakeanaccounthere/Youtube-Mate)** — AI-powered productivity platform
 AI summaries • AI transcription • Timestamp sharing • Group streaming • Shared playlists • URL shortener • Playlist download • OAuth • Stripe billing
 `Next.js` `Express` `MongoDB` `TypeScript` `Tailwind` `WebSockets`
 
-**💼 [Milestone](https://github.com/forcedtomakeanaccounthere/milestone-freelancing-website)** — Freelancing ecosystem
+** [Milestone](https://github.com/forcedtomakeanaccounthere/milestone-freelancing-website)** — Freelancing ecosystem
 Real-time chat • GraphQL backend • Milestone payments • Notifications • Role-based auth
 
-**🛡 [SQL Injection Prevention](https://github.com/forcedtomakeanaccounthere/Cloud-Computing-project)** — Cloud-native security platform
+** [SQL Injection Prevention](https://github.com/forcedtomakeanaccounthere/Cloud-Computing-project)** — Cloud-native security platform, safeguarding against 95% of advanced SQL injection attack via custom algorithms which might bypass WAF security rules.
 `AWS Lambda` `AWS WAF` `AWS SNS` `AWS RDS` `React` `Twofish Encryption` `Custom SQL Parser`
 
 <br/>
 
 ## 🏆 Achievements
 
-- 🥇 **Domain Lead — AI/ML & Data Science**, GDG IIIT Sri City
-- 🎓 **Stanford Machine Learning Specialization**, DeepLearning.AI
-- 💻 Built production applications serving real users
+-  **Domain Lead — AI/ML & Data Science**, GDG (Google Developer's Group) IIIT Sri City
+-  **Stanford Machine Learning Specialization**, DeepLearning.AI
+-  **Core Member — AI/ML & Data Science**, GDG & IOTA IIIT Sri City 
+-  **Core Member — Deep Learning**, Epoch IIIT Sri City 
+-  Built production applications serving real users
 
 <br/>
 
@@ -179,7 +177,7 @@ Real-time chat • GraphQL backend • Milestone payments • Notifications • 
 
 <br/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/forcedtomakeanaccounthere/forcedtomakeanaccounthere/output/github-contribution-grid-snake-dark.svg" />
@@ -187,7 +185,7 @@ Real-time chat • GraphQL backend • Milestone payments • Notifications • 
 
 <br/>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -195,8 +193,7 @@ Real-time chat • GraphQL backend • Milestone payments • Notifications • 
 <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abhishek.a23@iiits.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/><br/>
-
+<br/>
 <a href="https://portfolio-abhishek-anand.vercel.app/">
 <img src="assets/qr-portfolio.png" width="160" alt="Scan to visit portfolio" />
 </a>
