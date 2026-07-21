@@ -7,7 +7,6 @@
 <a href="https://portfolio-abhishek-anand.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/forcedtomakeanaccounthere"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=forcedtomakeanaccounthere&label=Profile%20Views&color=3B82F6&style=flat-square" />
 
@@ -21,11 +20,10 @@
 
 ```yaml
 education: "B.Tech CSE @ IIIT Sri City (2023 – 2027)"
-role: "SDE Intern @ Cogzin Technologies"
+current role: "SDE Intern @ Cogzin Technologies"
 focus: "Scalable backend systems, distributed applications, AI-powered products"
-interests: ["Cloud", "Distributed Systems", "Security", "AI"]
-currently_learning:
-  - Distributed Systems
+interests: ["Cloud", "Full Stack", "Distributed Systems", "Cyber Security", "AI"]
+currently into :
   - High Scale Backend
   - Kubernetes
   - LLM Systems
@@ -40,7 +38,7 @@ currently_learning:
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Cogzin Technologies
+### <img src="https://www.google.com/s2/favicons?domain=cogzin.com&sz=32" width="20" valign="middle" /> Cogzin Technologies
 **SDE Intern**
 
 - Led backend development for **MuktiFresh**
@@ -53,7 +51,7 @@ currently_learning:
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Wecofy Technotides
+### <img src="https://www.google.com/s2/favicons?domain=wecofy.com&sz=32" width="20" valign="middle" /> Wecofy Technotides
 **Full Stack Developer Intern**
 
 - Built Admin & Seller Dashboards
@@ -132,14 +130,14 @@ currently_learning:
 <div align="center">
 
 <a href="https://github.com/forcedtomakeanaccounthere/Youtube-Mate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=forcedtomakeanaccounthere&repo=Youtube-Mate&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=forcedtomakeanaccounthere&repo=Youtube-Mate&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/forcedtomakeanaccounthere/milestone-freelancing-website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=forcedtomakeanaccounthere&repo=milestone-freelancing-website&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=forcedtomakeanaccounthere&repo=milestone-freelancing-website&theme=tokyonight&hide_border=true" />
 </a>
 <br/>
 <a href="https://github.com/forcedtomakeanaccounthere/Cloud-Computing-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=forcedtomakeanaccounthere&repo=Cloud-Computing-project&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=forcedtomakeanaccounthere&repo=Cloud-Computing-project&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -168,8 +166,8 @@ Real-time chat • GraphQL backend • Milestone payments • Notifications • 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=forcedtomakeanaccounthere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forcedtomakeanaccounthere&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=forcedtomakeanaccounthere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=forcedtomakeanaccounthere&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=forcedtomakeanaccounthere&theme=tokyonight&hide_border=true&background=0D1117" />
 
@@ -186,16 +184,6 @@ Real-time chat • GraphQL backend • Milestone payments • Notifications • 
 <div align="center">
 <img src="https://raw.githubusercontent.com/forcedtomakeanaccounthere/forcedtomakeanaccounthere/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
-<br/>
-
-## 🌱 Currently Building
-
-- Backend architectures for high-scale systems
-- Distributed systems experiments
-- AI developer tools
-- Production-grade APIs
-- Kubernetes-based deployments
 
 <br/>
 
