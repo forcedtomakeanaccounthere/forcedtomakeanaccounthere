@@ -21,6 +21,7 @@
 ```yaml
 education: "B.Tech CSE @ IIIT Sri City (2023 – 2027)"
 current role: "SDE Intern @ Cogzin Technologies"
+contact: "abhishek.a23@iiits.in", "abhishekanandvii@gmail.com"
 focus: "Scalable backend systems, distributed applications, AI-powered products"
 interests: ["Cloud", "Full Stack", "Distributed Systems", "Cyber Security", "AI"]
 currently into :
@@ -38,7 +39,7 @@ currently into :
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://www.google.com/s2/favicons?domain=cogzin.com&sz=64" width="24" valign="middle" style="margin-right:8px" /> &nbsp;Cogzin Technologies
+### <img src="https://www.google.com/s2/favicons?domain=cogzin.com&sz=64" width="21" valign="middle" style="margin-right:8px" /> &nbsp;Cogzin Technologies
 <sub>Nov 2025 – July 2026</sub>
 
 **SDE Intern**
@@ -157,8 +158,7 @@ Real-time chat • GraphQL backend • Milestone payments • Notifications • 
 -  **Domain Lead — AI/ML & Data Science**, GDG (Google Developer's Group) IIIT Sri City
 -  **Stanford Machine Learning Specialization**, DeepLearning.AI
 -  **Core Member — AI/ML & Data Science**, GDG & IOTA IIIT Sri City 
--  **Core Member — Deep Learning**, Epoch IIIT Sri City 
--  Built production applications serving real users
+-  **Core Member — Deep Learning**, Epoch IIIT Sri City
 
 <br/>
 
