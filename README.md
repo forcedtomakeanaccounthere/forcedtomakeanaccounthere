@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://portfolio-abhishek-anand.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abhishek-anand-iiits/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/forcedtomakeanaccounthere"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
@@ -81,33 +81,49 @@ currently_learning:
 
 ## 🛠 Tech Stack
 
-<div align="center">
-
-**Languages**
-<br/>
+<table align="center">
+<tr>
+<td align="center" width="46%">
+<sub><b>LANGUAGES</b></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark" />
-
-**Backend**
-<br/>
+</td>
+<td align="center" width="2%">
+<img src="https://dummyimage.com/3x420/3b82f6/3b82f6.png&text=+" width="2"/>
+</td>
+<td align="center" width="46%">
+<sub><b>BACKEND</b></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,socketio&theme=dark" />
-
-**Frontend**
-<br/>
+</td>
+</tr>
+<tr><td colspan="3"><br/></td></tr>
+<tr>
+<td align="center" width="46%">
+<sub><b>FRONTEND</b></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark" />
-
-**Databases**
-<br/>
+</td>
+<td align="center" width="2%">
+<img src="https://dummyimage.com/3x420/3b82f6/3b82f6.png&text=+" width="2"/>
+</td>
+<td align="center" width="46%">
+<sub><b>DATABASES</b></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" />
-
-**Cloud & DevOps**
-<br/>
+</td>
+</tr>
+<tr><td colspan="3"><br/></td></tr>
+<tr>
+<td align="center" width="46%">
+<sub><b>CLOUD & DEVOPS</b></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,gcp,linux,git,githubactions&theme=dark" />
-
-**AI**
-<br/>
+</td>
+<td align="center" width="2%">
+<img src="https://dummyimage.com/3x420/3b82f6/3b82f6.png&text=+" width="2"/>
+</td>
+<td align="center" width="46%">
+<sub><b>AI</b></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -128,14 +144,14 @@ currently_learning:
 
 </div>
 
-**🎥 YouTube Mate** — AI-powered productivity platform
+**🎥 [YouTube Mate](https://github.com/forcedtomakeanaccounthere/Youtube-Mate)** — AI-powered productivity platform
 AI summaries • AI transcription • Timestamp sharing • Group streaming • Shared playlists • URL shortener • Playlist download • OAuth • Stripe billing
 `Next.js` `Express` `MongoDB` `TypeScript` `Tailwind` `WebSockets`
 
-**💼 Milestone** — Freelancing ecosystem
+**💼 [Milestone](https://github.com/forcedtomakeanaccounthere/milestone-freelancing-website)** — Freelancing ecosystem
 Real-time chat • GraphQL backend • Milestone payments • Notifications • Role-based auth
 
-**🛡 SQL Injection Prevention** — Cloud-native security platform
+**🛡 [SQL Injection Prevention](https://github.com/forcedtomakeanaccounthere/Cloud-Computing-project)** — Cloud-native security platform
 `AWS Lambda` `AWS WAF` `AWS SNS` `AWS RDS` `React` `Twofish Encryption` `Custom SQL Parser`
 
 <br/>
@@ -188,9 +204,16 @@ Real-time chat • GraphQL backend • Milestone payments • Notifications • 
 <div align="center">
 
 <a href="https://portfolio-abhishek-anand.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abhishek-anand-iiits/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:abhishekanandvii@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abhishek.a23@iiits.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<a href="https://portfolio-abhishek-anand.vercel.app/">
+<img src="assets/qr-portfolio.png" width="160" alt="Scan to visit portfolio" />
+</a>
+<br/>
+<sub>Scan to visit portfolio</sub>
 
 </div>
 
